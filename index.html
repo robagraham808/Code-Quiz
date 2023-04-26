@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Javascript Quiz</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="assets/style.css" />
+</head>
+
+<body>
+    <header>
+        <div class="header">Javascript Fundamentals</div>
+        <!-- <button id="start-button">Start</button> -->
+        
+    </header>
+<div class="timer"> 
+    time: <span id="time">
+        0
+    </span>
+</div>
+    <main id="main-quiz">
+        <section id="startscreen">
+            <div class="game">
+                <div class="instructions"> Answer the following code-related questions within the time limit.</div>
+                <br> 
+                Incorrect answer's will recieve a 10 sec penalty.
+            </div>
+            <button id="start">Start quiz</button>
+            </div>
+        </section>
+        <section id="questions" class="hide">
+            <h2 id = "questionTitle"></h2>
+            <div id="choices" class="quiz-container"></div>
+           
+        </section>
+        <section id="endscreen" class="hide">
+        <h2>quiz complete</h2>
+        <p>your final score is <span id="finalscore"></span>
+        </p>
+        <p>enter initials: <input type="text" id="initials"><button id="submit">submit</button></p>
+
+        </section>
+    </main>
+    <script src="assets/script.js"></script>
+</body>
+
+</html>
