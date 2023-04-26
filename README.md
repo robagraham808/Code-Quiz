@@ -19,7 +19,8 @@ WHEN the game is over
 THEN I can save my initials and score
 Mock-Up
 
-![image](https://user-images.githubusercontent.com/126196331/234681710-32b38f96-79c0-4589-aaaa-e846f045d311.png)
+![image](https://user-images.githubusercontent.com/126196331/234682040-7a3b773e-fb11-44df-8fb1-1823741092b1.png)
+
 
 
 file:///C:/Users/17868/Desktop/HW/Assignment-4/index.html
