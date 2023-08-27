@@ -1,7 +1,7 @@
-# Assignment-4
-
 As a coding student
+
 I will create a timed quiz on JavaScript fundementals that saves high scores
+
 I want to be able to see my progress compared to my peers in class
 
 Guidlines are as follows: 
